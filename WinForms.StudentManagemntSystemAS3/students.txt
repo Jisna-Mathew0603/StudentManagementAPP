@@ -1,0 +1,11 @@
+1,jisna,mathew,76,female,itc51010,90
+2,Sarah,Johnson,24,female,JavaScript,95
+3,Michael,Williams,20,male,SQL,75
+4,Emily,Brown,22,female,HTML,85
+5,James,Davis,23,male,PHP,70
+6,Olivia,Miller,21,female,CSS,78
+7,Alexander,Wilson,24,male,Ruby,82
+8,Mia,Taylor,22,female,Swift,88
+9,William,Anderson,23,male,Go,76
+10,Ava,Jones,21,female,Scala,90
+11,PETER,ANTHONY,23,MALE,ITC101,98
